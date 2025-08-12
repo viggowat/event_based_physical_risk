@@ -27,7 +27,7 @@ The footprints represent maximum 1-minute sustained wind speeds (>34 knots) at e
 
 Some referrences:  
 - Bloemendaal, N. *et al.* (2020). *Generation of a global synthetic tropical cyclone hazard dataset using STORM*. **Sci. Data**. [https://doi.org/10.1038/s41597-020-0381-2](https://doi.org/10.1038/s41597-020-0381-2)  
-- Bloemendaal, N. *et al.* (2022). *Impact of climate change on global tropical cyclone hazard*. **Sci. Adv.** [https://doi.org/10.1126/sciadv.abm8438](https://doi.org/10.1126/sciadv.abm8438)  
+- Bloemendaal, N. *et al.* (2022). *A globally consistent local-scale assessment of future tropical cyclone risk*. **Sci. Adv.** [https://doi.org/10.1126/sciadv.abm8438](https://doi.org/10.1126/sciadv.abm8438)  
 - Aznar-Siguan, G., Bresch, D.N. (2019). *CLIMADA: Probabilistic modelling of socio-economic impacts from natural hazards*. **Geosci. Model Dev.** [https://doi.org/10.5194/gmd-12-3085-2019](https://doi.org/10.5194/gmd-12-3085-2019)  
 
 ---
